@@ -14,7 +14,7 @@
 ---
 
 ## Data & method
-Source: internal quarterly patient satisfaction scores (2024).  
+Sources : internal quarterly patient satisfaction scores (2024).  
 Method: simple descriptive analysis — compute totals and average, visualize trend and compare to industry target. See `analysis.py` for reproducible code that generates charts in `charts/`.
 
 Arithmetic verification (step-by-step):

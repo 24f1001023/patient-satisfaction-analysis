@@ -1,6 +1,6 @@
 """
 analysis.py
-Processes 2024 quarterly patient satisfaction scores, creates visualizations,
+Processes the 2024 quarterly patient satisfaction scores, creates visualizations,
 and outputs a short summary. Save charts to ./charts/
 
 Usage:

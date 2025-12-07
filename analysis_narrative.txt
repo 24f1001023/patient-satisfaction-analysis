@@ -1,0 +1,15 @@
+Summary:
+  - Quarterly scores: [-2.61, 2.87, 7.06, 6.19]
+  - Total: 13.51
+  - Average (2024): 3.38
+  - Industry target: 4.5
+
+Interpretation:
+  - The organization averaged 3.38 in 2024, below the industry target of 4.5.
+  - Trend shows a strong rebound  after the Q1 (-2.61) and solid performance in Q3 (7.06), Q4 (6.19).
+  - Primary recommendation focus: improve service quality and wait times.
+
+Generated files:
+  - charts/patient_satisfaction_trend.png
+
+  - charts/summary_metrics.csv
